@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+pymysql
+sqlalchemy
+pymongo
+langchain
+langchain-openai
+langchain-community # For DB integrations
+pydantic
